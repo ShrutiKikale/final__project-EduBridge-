@@ -2,7 +2,7 @@
 final project submission.
 ## Name : Shruti
 ## Registration Number : EBEON1022676299
-## Project Title: Batsman Prediction
+## Project Title: BATSMAN PREDICTION
 
 
 
